@@ -1,0 +1,18 @@
+Lien du dépôt (GitHub public) : https://github.com/Guirw7/Barban-Deprest-Git-CC1
+Noms et prénoms du binôme : Barban Guillaume & Deprest Camille
+Branches (noms complets) : - main
+                           - feature/arborescence-projet-barban-guillaume
+                           - feature/Barban-Guillaume/banner-author
+                           - feature/Deprest-Camille/banner-author
+Message du commit final de résolution : Resolution du conflit merge dans la "banner-author" : conserver les deux noms
+
+Captures :
+- Conflit avant résolution (marqueurs visibles)
+https://cdn.discordapp.com/attachments/1290650587121324042/1435950865369534595/image.png?ex=690dd4f4&is=690c8374&hm=1d8e7494747d5961b969066e68f032116e29462e795c7db75df82c68c7aace51&
+
+- Fichier final après résolution
+https://cdn.discordapp.com/attachments/1290650587121324042/1435951049218199552/image.png?ex=690dd520&is=690c83a0&hm=10f2356c3877ef91a88a6fa9d2cd5d1d1a3b5432445cd537a2476c910a08703b&
+
+- Historique des commits
+https://cdn.discordapp.com/attachments/1290650587121324042/1435952851406032927/image.png?ex=690dd6ce&is=690c854e&hm=ae77d8d13c85dfcae574ac03b9cfe93ff13b406b98f31d1d294ac743e704056f&
+
