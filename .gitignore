@@ -1,0 +1,22 @@
+# Node & tooling
+node_modules/
+npm-debug.log*
+yarn*.log
+package-lock.json
+.pnpm-debug.log
+
+# Editors/OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Builds / caches
+dist/
+build/
+.tmp/
+.cache/
+
+# Env / secrets
+.env
+.env.*
