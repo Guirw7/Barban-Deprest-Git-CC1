@@ -8,7 +8,7 @@
 const PROJECT_NAME = "Barban-Deprest-Git-CC1";
 
 // ★ À MODIFIER PAR LES DEUX (VALEUR DIFFÉRENTE OBLIGATOIRE)
-const AUTHOR_NAME = "Camille Deprest";
+const AUTHOR_NAME = "Camille Deprest & Guillaume Barban";
 
 function buildBanner() {
     return `[${PROJECT_NAME}] by ${AUTHOR_NAME}`;
